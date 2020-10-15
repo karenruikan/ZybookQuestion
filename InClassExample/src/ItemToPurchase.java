@@ -5,6 +5,9 @@ public class ItemToPurchase {
 	int itemPrice;
 	int itemQuantity;
 	
+	ItemToPurchase() {
+		
+	}
 	public String getItemName() {
 		return itemName;
 	}
